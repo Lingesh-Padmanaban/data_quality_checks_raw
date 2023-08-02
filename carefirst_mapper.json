@@ -1,0 +1,22 @@
+{
+  "census_name_mapping": {
+    "member_unique_id":"memb_life_id",
+    "employer_group_id":"Group Number",
+    "employer_group_name":"Group Number",
+    "member_relationship_code": "Relationship Code",
+    "member_relationship_description": "Relationship Desc",
+    "member_gender": "Gender Code",
+    "member_date_of_birth": "Birth Date",
+    "member_state": "member_state",
+    "member_zip_code": "Zip Code",
+    "member_first_name": "member_first_name",
+    "member_last_name": "member_last_name",
+    "eligible_flag": "eligible_flag",
+    "enrollment_date": "Effective Date",
+    "termination_date": "Term Date",
+    "subscriber_id": "subscriber_id",
+    "plan_type": "Product Line Description",
+    "plan_name": "plan_name",
+    "level_of_coverage_description": "Level of Coverage Description"
+  }
+}
